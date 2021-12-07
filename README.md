@@ -3,6 +3,9 @@
 ### Technologies & Libraries:
 - Python
 - Tensorflow
+- keras
 - Matplotlib
 - Numpy
+- scikit-learn
+- pandas
 - ...
